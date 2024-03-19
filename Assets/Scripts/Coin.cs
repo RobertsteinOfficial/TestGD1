@@ -18,7 +18,9 @@ public class Coin : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
+
         Debug.Log("Hello");
+        Debug.Log("oasfjklsfjlasfd");
     }
 
 }
